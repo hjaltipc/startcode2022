@@ -4,8 +4,8 @@ const World = () => {
   return (
     <div className="globe">
       <Globe
-        globeImageUrl="//unpkg.com/three-globe/example/img/earth-night.jpg"
-        backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
+        globeImageUrl="https://assets.vercel.com/image/upload/v1595320886/front/home/globe-texture.jpg"
+        backgroundColor="rgba(0,0,0,0)"
         width={1000}
         height={500}
       ></Globe>

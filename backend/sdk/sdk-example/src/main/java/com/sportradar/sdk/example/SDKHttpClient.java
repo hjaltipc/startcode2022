@@ -30,7 +30,7 @@ public class SDKHttpClient {
 
         HttpRequest request = HttpRequest.newBuilder()
                 .POST(buildFormDataFromMap(data))
-                .uri(URI.create("http://10.12.141.88:6969/input"))
+                .uri(URI.create("http://localhost:6969/input"))
                 .version(Version.HTTP_1_1)
                 .setHeader("User-Agent", "SDK")
                 .header("Content-Type", "application/json")

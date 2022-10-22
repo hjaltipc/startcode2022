@@ -118,15 +118,19 @@ public class LiveScoutFeedListenerImpl implements LiveScoutFeedListener {
         }
     }
 
+
+    //TODO: Her skal vi sende koden til kotlin:
     @Override
     public void onMatchDeltaUpdateReceived(LiveScoutFeed sender, MatchUpdateEntity matchUpdate) {
-        logger.info("Match delta update");
+        logger.info(matchUpdate.getMatchHeader().getMatchId() + "\n");
+        
+        /*logger.info("Match delta update");
 
         if(matchUpdate.getScores() != null && matchUpdate.getScores().size() > 0){
             for (ScoreEntity se : matchUpdate.getScores()) {
                 logger.info("Match score: " + se);
             }
-        }
+        }*/
     }
 
     @Override

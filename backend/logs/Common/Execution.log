@@ -1,0 +1,157 @@
+2022-10-22 11:24:54,278 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 11:24:54,279 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 11:24:54,290 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 11:24:54,859 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 11:24:54,860 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 11:24:54,861 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 11:25:05,095 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 11:25:05,207 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 11:25:05,207 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 11:25:05,212 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 11:25:06,215 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:06,289 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:06,378 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:06,478 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:06,578 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:06,679 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:06,679 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=current, t1=0.0, t2=0.0, subScore=null}
+2022-10-22 11:25:06,680 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=period1, t1=0.0, t2=0.0, subScore=null}
+2022-10-22 11:25:06,778 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:06,878 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:06,978 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,077 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,177 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,277 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,377 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,477 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,581 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,678 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,777 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,877 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:07,979 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,079 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,179 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,182 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=current, t1=2.0, t2=0.0, subScore=null}
+2022-10-22 11:25:08,182 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=period1, t1=2.0, t2=0.0, subScore=null}
+2022-10-22 11:25:08,279 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,378 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,479 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,580 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,678 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,876 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,879 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:08,977 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,079 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,176 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,177 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=current, t1=4.0, t2=0.0, subScore=null}
+2022-10-22 11:25:09,177 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=period1, t1=4.0, t2=0.0, subScore=null}
+2022-10-22 11:25:09,276 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,377 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,478 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,576 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,678 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,776 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,776 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=current, t1=4.0, t2=2.0, subScore=null}
+2022-10-22 11:25:09,776 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=period1, t1=4.0, t2=2.0, subScore=null}
+2022-10-22 11:25:09,877 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:09,978 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,080 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,177 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,277 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,377 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,477 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,577 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,677 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,777 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,877 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:10,878 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=current, t1=7.0, t2=2.0, subScore=null}
+2022-10-22 11:25:10,878 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=period1, t1=7.0, t2=2.0, subScore=null}
+2022-10-22 11:25:10,977 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,075 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,177 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,276 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,377 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,478 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,576 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,577 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=current, t1=7.0, t2=4.0, subScore=null}
+2022-10-22 11:25:11,577 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=period1, t1=7.0, t2=4.0, subScore=null}
+2022-10-22 11:25:11,676 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,777 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,878 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:11,976 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,077 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,178 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,277 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,377 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,476 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,577 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,676 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,777 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,777 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=current, t1=7.0, t2=7.0, subScore=null}
+2022-10-22 11:25:12,778 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match score: ScoreEntity{type=period1, t1=7.0, t2=7.0, subScore=null}
+2022-10-22 11:25:12,878 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:12,977 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:13,077 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:13,176 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:13,277 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:25:13,377 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Match delta update
+2022-10-22 11:28:18,475 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 11:28:18,476 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 11:28:18,488 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 11:28:18,752 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 11:28:18,753 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 11:28:18,754 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 11:28:20,944 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 11:28:21,050 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 11:28:21,050 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 11:28:21,053 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 11:28:22,103 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:22,175 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:22,247 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:22,347 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:22,447 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:22,616 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:22,648 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:22,748 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:22,848 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:22,947 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,048 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,148 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,247 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,347 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,447 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,547 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,648 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,746 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,846 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:23,947 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:24,049 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:24,146 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:24,247 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:24,347 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+
+2022-10-22 11:28:24,447 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] 35848015
+

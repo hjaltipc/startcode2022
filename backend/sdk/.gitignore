@@ -8,3 +8,4 @@ sdk/dependency-reduced-pom.xml
 sdk.properties
 sdk.properties.all
 sdk.properties.template
+*.log

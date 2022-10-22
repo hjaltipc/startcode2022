@@ -107,3 +107,267 @@
 2022-10-22 11:28:24,248 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
 2022-10-22 11:28:24,348 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
 2022-10-22 11:28:24,448 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:07,741 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 1] onFeedEvent : CONNECTED
+2022-10-22 12:29:08,320 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 1] onOpened
+2022-10-22 12:29:08,320 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onFeedEvent : AUTHENTICATED
+2022-10-22 12:29:10,752 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onInitialized
+2022-10-22 12:29:10,752 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onFullMatchUpdateReceived 35848015 NOT_STARTED
+2022-10-22 12:29:10,754 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-4] [INFO] [Elapsed 0] Lineups match id : 35848015
+2022-10-22 12:29:11,794 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:11,828 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:11,920 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:12,021 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:12,120 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:12,222 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 FIRST_QUARTER
+2022-10-22 12:29:12,320 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:12,420 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:12,520 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:12,620 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:12,719 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:12,819 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:12,920 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:13,019 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:13,120 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:13,221 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:29:13,320 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:52:42,885 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 1] onFeedEvent : CONNECTED
+2022-10-22 12:52:43,487 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 0] onOpened
+2022-10-22 12:52:43,488 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 1] onFeedEvent : AUTHENTICATED
+2022-10-22 12:53:23,853 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 1] onFeedEvent : CONNECTED
+2022-10-22 12:53:24,099 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 1] onOpened
+2022-10-22 12:53:24,099 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onFeedEvent : AUTHENTICATED
+2022-10-22 12:53:28,982 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onInitialized
+2022-10-22 12:53:28,982 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onFullMatchUpdateReceived 35848015 NOT_STARTED
+2022-10-22 12:53:28,986 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-4] [INFO] [Elapsed 0] Lineups match id : 35848015
+2022-10-22 12:53:30,067 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:30,073 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:30,166 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:30,268 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:30,367 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:30,477 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 FIRST_QUARTER
+2022-10-22 12:53:30,568 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:30,668 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:30,767 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:30,867 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:30,967 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,067 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,168 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,266 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,381 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,463 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,564 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,666 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,767 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,867 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:31,969 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,066 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,167 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,269 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,367 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,467 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,566 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,666 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,766 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,865 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:32,966 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,067 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,165 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,266 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,366 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,467 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,566 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,666 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,766 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,866 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:33,967 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:34,066 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 12:53:34,166 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:40,248 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 3] onFeedEvent : CONNECTED
+2022-10-22 15:44:40,882 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 1] onOpened
+2022-10-22 15:44:40,883 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onFeedEvent : AUTHENTICATED
+2022-10-22 15:44:55,004 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onInitialized
+2022-10-22 15:44:55,004 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onFullMatchUpdateReceived 35848015 NOT_STARTED
+2022-10-22 15:44:55,006 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-4] [INFO] [Elapsed 0] Lineups match id : 35848015
+2022-10-22 15:44:56,017 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 4] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:56,076 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:56,175 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:56,276 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:56,375 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:56,476 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 FIRST_QUARTER
+2022-10-22 15:44:56,575 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:56,675 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:56,775 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:56,874 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:56,975 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,075 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,175 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,272 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,374 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,475 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,574 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,674 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,776 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,875 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:57,975 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:58,076 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:58,175 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:44:58,276 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:22,612 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 2] onFeedEvent : CONNECTED
+2022-10-22 15:45:22,912 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 0] onOpened
+2022-10-22 15:45:22,912 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onFeedEvent : AUTHENTICATED
+2022-10-22 15:45:26,202 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 1] onInitialized
+2022-10-22 15:45:26,202 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onFullMatchUpdateReceived 35848015 NOT_STARTED
+2022-10-22 15:45:26,206 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-4] [INFO] [Elapsed 0] Lineups match id : 35848015
+2022-10-22 15:45:27,248 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 4] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:27,298 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:27,395 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:27,495 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:27,595 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:27,696 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 FIRST_QUARTER
+2022-10-22 15:45:27,794 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:27,893 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:27,994 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,096 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,194 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,294 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,394 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,495 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,595 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,695 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,792 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,894 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:28,994 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:29,094 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:29,195 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:29,294 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:29,394 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:46,843 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 1] onFeedEvent : CONNECTED
+2022-10-22 15:45:47,126 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 0] onOpened
+2022-10-22 15:45:47,127 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onFeedEvent : AUTHENTICATED
+2022-10-22 15:45:49,258 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 1] onInitialized
+2022-10-22 15:45:49,259 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onFullMatchUpdateReceived 35848015 NOT_STARTED
+2022-10-22 15:45:49,262 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-4] [INFO] [Elapsed 0] Lineups match id : 35848015
+2022-10-22 15:45:50,291 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:50,357 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:50,453 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:50,556 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:50,654 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:50,752 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 FIRST_QUARTER
+2022-10-22 15:45:50,853 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:50,953 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:51,053 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:51,154 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:51,255 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:51,353 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:51,454 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:51,553 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:51,653 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:45:51,754 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:51,032 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 3] onFeedEvent : CONNECTED
+2022-10-22 15:50:51,675 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 0] onOpened
+2022-10-22 15:50:51,676 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onFeedEvent : AUTHENTICATED
+2022-10-22 15:50:55,335 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onInitialized
+2022-10-22 15:50:55,335 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onFullMatchUpdateReceived 35848015 NOT_STARTED
+2022-10-22 15:50:55,352 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-4] [INFO] [Elapsed 0] Lineups match id : 35848015
+2022-10-22 15:50:56,362 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:56,445 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 6] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:56,530 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:56,630 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:56,730 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:56,831 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 FIRST_QUARTER
+2022-10-22 15:50:56,929 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,031 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,130 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,229 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,331 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,430 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,530 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,630 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,730 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,830 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:57,930 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:58,030 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:58,130 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:58,230 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:50:58,332 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 3] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:13,452 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 0] onFeedEvent : CONNECTED
+2022-10-22 15:56:14,036 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 0] onOpened
+2022-10-22 15:56:14,036 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onFeedEvent : AUTHENTICATED
+2022-10-22 15:56:22,453 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 1] onInitialized
+2022-10-22 15:56:22,453 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onFullMatchUpdateReceived 35848015 NOT_STARTED
+2022-10-22 15:56:22,457 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-4] [INFO] [Elapsed 1] Lineups match id : 35848015
+2022-10-22 15:56:23,530 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:23,558 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 4] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:23,642 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:23,742 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:23,842 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:23,946 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 FIRST_QUARTER
+2022-10-22 15:56:24,041 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:24,142 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:24,241 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:24,340 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:24,441 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:24,540 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:24,640 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:24,741 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:24,841 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:24,941 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,040 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,140 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,237 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,341 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,443 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 3] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,540 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,640 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,785 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,840 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:25,941 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,040 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,140 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,240 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,339 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,441 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,540 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,640 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,740 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,840 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 0] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:26,941 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,113 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,138 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,327 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,340 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,440 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,539 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,640 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,741 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,841 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 2] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:27,941 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:28,039 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:28,141 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:28,241 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:28,339 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:28,440 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 15:56:28,537 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:41,559 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 2] onFeedEvent : CONNECTED
+2022-10-22 16:37:42,121 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 0] onOpened
+2022-10-22 16:37:42,121 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onFeedEvent : AUTHENTICATED
+2022-10-22 16:37:56,160 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 1] onInitialized
+2022-10-22 16:37:56,160 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 1] onFullMatchUpdateReceived 35848015 NOT_STARTED
+2022-10-22 16:37:56,167 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-4] [INFO] [Elapsed 0] Lineups match id : 35848015
+2022-10-22 16:37:57,777 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 626] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:58,178 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 400] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:58,294 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 116] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:58,414 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 119] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:58,529 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 113] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:58,643 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 114] onMatchDeltaUpdateReceived 35848015 FIRST_QUARTER
+2022-10-22 16:37:58,881 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 236] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:58,995 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 114] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:59,162 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 166] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:59,278 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 115] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:59,393 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 115] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:59,510 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 116] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:59,705 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 193] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:37:59,820 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-7] [INFO] [Elapsed 115] onMatchDeltaUpdateReceived 35848015 null
+2022-10-22 16:38:00,983 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 1] onFeedEvent : CONNECTED
+2022-10-22 16:38:01,304 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-10] [INFO] [Elapsed 2] onOpened
+2022-10-22 16:38:01,305 [c.s.l.F.ClientInteraction] [livedata-sdk-pool-1-thread-12] [INFO] [Elapsed 0] onFeedEvent : AUTHENTICATED

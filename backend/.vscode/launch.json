@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SDKHttpClient",
+            "request": "launch",
+            "mainClass": "com.sportradar.sdk.example.SDKHttpClient",
+            "projectName": "sdk-example"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "com.sportradar.sdk.example.Main",

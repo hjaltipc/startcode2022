@@ -127,6 +127,7 @@ public class LiveScoutFeedListenerImpl implements LiveScoutFeedListener {
         try{
             SDKHttpClient.sendPost(matchId);
         }catch(Exception e){
+            logger.error("Error", e);
 
         }
     }

@@ -5,14 +5,21 @@ import java.net.URLEncoder;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.net.http.HttpClient.Version;
 import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Map;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 
 public class SDKHttpClient {
     private static final HttpClient httpClient = HttpClient.newBuilder()
             .version(HttpClient.Version.HTTP_2)
             .build();
+
+    private static final Logger logger = LoggerFactory.getLogger(SDKHttpClient.class);
 
 
     public static void sendPost(long matchId) throws Exception {
@@ -23,15 +30,16 @@ public class SDKHttpClient {
 
         HttpRequest request = HttpRequest.newBuilder()
                 .POST(buildFormDataFromMap(data))
-                .uri(URI.create("https://httpbin.org/post"))
+                .uri(URI.create("http://10.12.141.88:6969/input"))
+                .version(Version.HTTP_1_1)
                 .setHeader("User-Agent", "SDK")
-                .header("Content-Type", "application/x-www-form-urlencoded")
+                .header("Content-Type", "application/json")
                 .build();
 
         HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
 
-        // print status code
-        System.out.println(response.statusCode());
+        String logStr = "Status code: " +  response.statusCode();
+        logger.info(logStr);
     }
 
     private static HttpRequest.BodyPublisher buildFormDataFromMap(Map<Object, Object> data) {
@@ -44,7 +52,6 @@ public class SDKHttpClient {
             builder.append("=");
             builder.append(URLEncoder.encode(entry.getValue().toString(), StandardCharsets.UTF_8));
         }
-        System.out.println(builder.toString());
         return HttpRequest.BodyPublishers.ofString(builder.toString());
     }
 

@@ -646,3 +646,150 @@ java.lang.Error: Unresolved compilation problems:
 2022-10-22 16:38:01,298 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
 2022-10-22 16:38:01,301 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
 2022-10-22 16:38:01,305 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:33:55,315 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:33:55,317 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:33:55,342 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:33:55,914 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:33:55,915 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:33:55,915 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:33:59,045 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 17:33:59,500 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 17:33:59,500 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 17:33:59,504 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 17:34:04,324 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:34:04,325 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:34:04,335 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:34:04,591 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:34:04,592 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:34:04,592 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:34:39,025 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:34:39,027 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:34:39,051 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:34:39,340 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:34:39,341 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:34:39,342 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:34:41,506 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 17:34:41,616 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 17:34:41,616 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 17:34:41,619 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 17:34:49,405 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:34:49,407 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:34:49,432 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:34:49,713 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:34:49,714 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:34:49,714 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:36:32,064 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:36:32,065 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:36:32,076 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:36:32,360 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:36:32,360 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:36:32,361 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:36:34,641 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 17:36:34,744 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 17:36:34,744 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 17:36:34,747 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 17:36:42,021 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:36:42,022 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:36:42,032 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:36:42,323 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:36:42,324 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:36:42,325 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:42:20,656 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:42:20,657 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:42:20,667 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:42:21,264 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:42:21,265 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:42:21,266 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:42:23,942 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 17:42:24,063 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 17:42:24,063 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 17:42:24,066 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 17:42:28,467 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:42:28,468 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:42:28,480 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:42:28,767 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:42:28,768 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:42:28,769 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:48:31,075 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:48:31,077 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:48:31,090 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:48:31,756 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:48:31,757 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:48:31,758 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:48:34,381 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 17:48:34,481 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 17:48:34,481 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 17:48:34,484 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 17:48:39,901 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:48:39,902 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:48:39,912 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:48:40,174 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:48:40,175 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:48:40,177 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:51:46,620 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:51:46,621 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:51:46,632 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:51:46,918 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:51:46,919 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:51:46,920 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:51:49,706 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 17:51:49,813 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 17:51:49,813 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 17:51:49,817 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 17:51:54,095 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:51:54,098 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 17:51:54,125 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 17:51:54,647 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 17:51:54,649 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 17:51:54,650 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:02:42,111 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 18:02:42,112 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 18:02:42,123 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 18:02:42,801 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 18:02:42,802 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 18:02:42,803 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:02:45,490 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 18:02:45,617 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 18:02:45,617 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 18:02:45,621 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 18:02:49,772 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 18:02:49,773 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 18:02:49,783 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 18:02:50,046 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 18:02:50,047 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 18:02:50,048 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:06:03,980 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 18:06:03,982 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 18:06:04,012 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 18:06:04,287 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 18:06:04,288 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 18:06:04,289 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:06:06,934 [c.s.s.p.LiveFeedProtocol] [main] [DEBUG] Using the direct sendMessage
+2022-10-22 18:06:07,035 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] On initialized
+2022-10-22 18:06:07,036 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-7] [INFO] Full match update
+2022-10-22 18:06:07,038 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-4] [INFO] Lineups
+2022-10-22 18:06:11,076 [c.s.s.c.n.TcpGateway] [main] [INFO] Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 18:06:11,077 [c.s.s.e.Main] [main] [INFO] The sdk is running. Hit any key to exit
+2022-10-22 18:06:11,088 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] Feed event occurred. Event: CONNECTED
+2022-10-22 18:06:11,377 [c.s.s.p.LiveFeedProtocol] [livedata-sdk-pool-1-thread-8] [DEBUG] LOGIN_OK response received
+2022-10-22 18:06:11,378 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-10] [INFO] On opened
+2022-10-22 18:06:11,379 [c.s.s.e.LiveScoutFeedListenerImpl] [livedata-sdk-pool-1-thread-12] [INFO] Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:08:11,013 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:10:11,014 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:12:11,015 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:14:11,016 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:16:11,017 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:18:11,018 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:20:11,019 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:22:11,019 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-9] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:24:11,020 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:26:11,021 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:28:11,022 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:30:11,023 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:32:11,023 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:34:11,024 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:36:11,025 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-2] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:38:11,025 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:40:11,026 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-11] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:42:11,026 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-1] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:44:11,027 [c.s.s.c.r.SimpleRateGate] [livedata-sdk-pool-1-thread-3] [INFO] scoutRequestLimit remaining entries 0, next check in 120000 ms

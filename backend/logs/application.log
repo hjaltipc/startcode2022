@@ -1273,3 +1273,553 @@ LOGIN_OK response received
 On opened
 2022-10-22 16:38:01,305 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
 Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:33:54,810 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:33:54,811 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:33:54,817 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:33:55,033 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:33:55,315 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:33:55,317 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:33:55,342 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:33:55,914 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:33:55,915 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:33:55,915 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:33:59,045 [main] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+Using the direct sendMessage
+2022-10-22 17:33:59,500 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On initialized
+2022-10-22 17:33:59,500 [1-thread-7] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Full match update
+2022-10-22 17:33:59,504 [1-thread-4] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Lineups
+2022-10-22 17:34:03,816 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:34:03,818 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:34:03,823 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:34:04,067 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:34:04,324 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:34:04,325 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:34:04,335 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:34:04,591 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:34:04,592 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:34:04,592 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:34:38,548 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:34:38,549 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:34:38,554 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:34:38,770 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:34:39,025 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:34:39,027 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:34:39,051 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:34:39,340 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:34:39,341 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:34:39,342 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:34:41,506 [main] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+Using the direct sendMessage
+2022-10-22 17:34:41,616 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On initialized
+2022-10-22 17:34:41,616 [1-thread-7] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Full match update
+2022-10-22 17:34:41,619 [1-thread-4] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Lineups
+2022-10-22 17:34:48,840 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:34:48,841 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:34:48,846 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:34:49,113 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:34:49,405 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:34:49,407 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:34:49,432 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:34:49,713 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:34:49,714 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:34:49,714 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:36:31,576 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:36:31,578 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:36:31,584 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:36:31,827 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:36:32,064 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:36:32,065 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:36:32,076 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:36:32,360 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:36:32,360 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:36:32,361 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:36:34,641 [main] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+Using the direct sendMessage
+2022-10-22 17:36:34,744 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On initialized
+2022-10-22 17:36:34,744 [1-thread-7] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Full match update
+2022-10-22 17:36:34,747 [1-thread-4] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Lineups
+2022-10-22 17:36:41,481 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:36:41,483 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:36:41,488 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:36:41,749 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:36:42,021 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:36:42,022 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:36:42,032 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:36:42,323 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:36:42,324 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:36:42,325 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:42:20,166 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:42:20,167 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:42:20,172 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:42:20,391 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:42:20,656 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:42:20,657 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:42:20,667 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:42:21,264 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:42:21,265 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:42:21,266 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:42:23,942 [main] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+Using the direct sendMessage
+2022-10-22 17:42:24,063 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On initialized
+2022-10-22 17:42:24,063 [1-thread-7] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Full match update
+2022-10-22 17:42:24,066 [1-thread-4] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Lineups
+2022-10-22 17:42:27,905 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:42:27,906 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:42:27,911 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:42:28,155 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:42:28,467 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:42:28,468 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:42:28,480 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:42:28,767 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:42:28,768 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:42:28,769 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:48:30,588 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:48:30,589 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:48:30,595 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:48:30,813 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:48:31,075 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:48:31,077 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:48:31,090 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:48:31,756 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:48:31,757 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:48:31,758 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:48:34,381 [main] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+Using the direct sendMessage
+2022-10-22 17:48:34,481 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On initialized
+2022-10-22 17:48:34,481 [1-thread-7] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Full match update
+2022-10-22 17:48:34,484 [1-thread-4] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Lineups
+2022-10-22 17:48:39,325 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:48:39,327 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:48:39,332 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:48:39,598 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:48:39,901 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:48:39,902 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:48:39,912 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:48:40,174 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:48:40,175 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:48:40,177 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:51:46,120 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:51:46,122 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:51:46,128 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:51:46,357 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:51:46,620 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:51:46,621 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:51:46,632 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:51:46,918 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:51:46,919 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:51:46,920 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 17:51:49,706 [main] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+Using the direct sendMessage
+2022-10-22 17:51:49,813 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On initialized
+2022-10-22 17:51:49,813 [1-thread-7] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Full match update
+2022-10-22 17:51:49,817 [1-thread-4] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Lineups
+2022-10-22 17:51:53,540 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 17:51:53,541 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 17:51:53,546 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 17:51:53,788 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 17:51:54,095 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 17:51:54,098 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 17:51:54,125 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 17:51:54,647 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 17:51:54,649 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 17:51:54,650 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:02:41,598 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 18:02:41,599 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 18:02:41,603 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 18:02:41,825 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 18:02:42,111 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 18:02:42,112 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 18:02:42,123 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 18:02:42,801 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 18:02:42,802 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 18:02:42,803 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:02:45,490 [main] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+Using the direct sendMessage
+2022-10-22 18:02:45,617 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On initialized
+2022-10-22 18:02:45,617 [1-thread-7] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Full match update
+2022-10-22 18:02:45,621 [1-thread-4] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Lineups
+2022-10-22 18:02:49,201 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 18:02:49,203 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 18:02:49,207 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 18:02:49,473 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 18:02:49,772 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 18:02:49,773 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 18:02:49,783 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 18:02:50,046 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 18:02:50,047 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 18:02:50,048 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:06:03,457 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 18:06:03,459 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 18:06:03,465 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 18:06:03,691 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 18:06:03,980 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 18:06:03,982 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 18:06:04,012 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 18:06:04,287 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 18:06:04,288 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 18:06:04,289 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:06:06,934 [main] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+Using the direct sendMessage
+2022-10-22 18:06:07,035 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On initialized
+2022-10-22 18:06:07,036 [1-thread-7] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Full match update
+2022-10-22 18:06:07,038 [1-thread-4] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Lineups
+2022-10-22 18:06:10,534 [main] [INFO ] com.sportradar.sdk.example.Main - 
+Current JVM version - 11.0.16
+2022-10-22 18:06:10,535 [main] [INFO ] com.sportradar.sdk.feed.sdk.Sdk - 
+Initializing SDK dependency injector
+2022-10-22 18:06:10,539 [main] [INFO ] c.s.s.c.s.PropertyFileSettingsLoader - 
+Listing all passed sdk settings : 
+sdk.livescout.port : 2047
+sdk.livescout.password : ***
+sdk.livescout.logger.config_log_level : Debug
+sdk.livescout.test : true
+sdk.livescout.host : replay.livedata.betradar.com
+sdk.livescout.username : startcode22-02
+sdk.livescout.enabled : true
+
+2022-10-22 18:06:10,808 [main] [INFO ] c.s.s.common.classes.SdkVersion - 
+SDK starting up, version javasdk-0.0.0.0
+2022-10-22 18:06:11,076 [main] [INFO ] c.s.s.c.networking.TcpGateway - 
+Connection to the server replay.livedata.betradar.com:2047 established
+2022-10-22 18:06:11,077 [main] [INFO ] com.sportradar.sdk.example.Main - 
+The sdk is running. Hit any key to exit
+2022-10-22 18:06:11,088 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: CONNECTED
+2022-10-22 18:06:11,377 [1-thread-8] [DEBUG] c.s.sdk.proto.LiveFeedProtocol - 
+LOGIN_OK response received
+2022-10-22 18:06:11,378 [-thread-10] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+On opened
+2022-10-22 18:06:11,379 [-thread-12] [INFO ] c.s.s.e.LiveScoutFeedListenerImpl - 
+Feed event occurred. Event: AUTHENTICATED
+2022-10-22 18:08:11,013 [1-thread-9] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:10:11,014 [1-thread-2] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:12:11,015 [1-thread-1] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:14:11,016 [1-thread-2] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:16:11,017 [1-thread-3] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:18:11,018 [1-thread-9] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:20:11,019 [-thread-11] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:22:11,019 [1-thread-9] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:24:11,020 [-thread-11] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:26:11,021 [1-thread-1] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:28:11,022 [1-thread-2] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:30:11,023 [1-thread-1] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:32:11,023 [1-thread-3] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:34:11,024 [-thread-11] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:36:11,025 [1-thread-2] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:38:11,025 [-thread-11] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:40:11,026 [-thread-11] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:42:11,026 [1-thread-1] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms
+2022-10-22 18:44:11,027 [1-thread-3] [INFO ] c.s.s.c.rategate.SimpleRateGate - 
+scoutRequestLimit remaining entries 0, next check in 120000 ms

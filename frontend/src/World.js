@@ -34,28 +34,42 @@ const World = () => {
   };
 
   useEffect(() => {
-    fetch(urlFeed)
-      .then((r) => r.json())
-      .then((text) => {
-        setMatches(text["doc"][0].data);
-      });
+    setInterval(() => {
+      fetch(urlFeed)
+        .then((r) => r.json())
+        .then((text) => {
+          setMatches(text["doc"][0].data);
+        });
+    }, 1000);
   }, []);
 
   const removePoint = () => {
     setTimeout(() => {
-      const newPointsArray = points.slice(1, points.length);
+      const newPointsArray = points.slice(0, points.length - 1);
       setPoints(newPointsArray);
-    }, 2000);
+      console.log("hello");
+    }, 1000);
   };
 
   useEffect(() => {
-    if (matches.length > 0) {
-      for (const match of matches) {
-        let id = match.match._id;
-        fetchdata(id);
-        removePoint();
+    const delay = async (ms = 1000) =>
+      new Promise((resolve) => setTimeout(resolve, ms));
+
+    const plotPoints = () => {
+      if (matches.length > 0) {
+        for (const match of matches) {
+          let id = match.match._id;
+          let dataLen = matches.length;
+          //   dataLength = len(responseJson["doc"][0]["data"]) - 1;
+          //   let waitingtime = 1000000 / dataLen;
+          //   console.log(waitingtime);
+          fetchdata(id);
+          removePoint();
+          //   await delay(1000);
+        }
       }
-    }
+    };
+    plotPoints();
   }, [matches]);
 
   return (

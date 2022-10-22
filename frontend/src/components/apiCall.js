@@ -9,7 +9,7 @@ function ApiCaller() {
     const [location, setLocation] = useState([]);
 
     useEffect(() => {
-    const ws = new WebSocket('wss://');    
+    const ws = new WebSocket('ws://localhost:6921');    
     ws.onopen = (event) => {
         ws.send(JSON.stringify(apiCall));
     };

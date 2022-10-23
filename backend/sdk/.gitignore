@@ -1,0 +1,11 @@
+logs/
+sdk/target/
+sdk-test/target/
+target/
+sdk-test/dependency-reduced-pom.xml
+sdk/dependency-reduced-pom.xml
+.idea/
+sdk.properties
+sdk.properties.all
+sdk.properties.template
+*.log

@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: black;
+  
 }
 .logo {
   width: min-content;
@@ -9,4 +9,8 @@
 .globe{
   width: min-content;
   margin:auto;
+}
+
+body {
+  background-color: black;
 }

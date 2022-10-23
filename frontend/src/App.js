@@ -1,12 +1,15 @@
 import "./App.css";
 import World from "./World";
 import GuiTop from "./components/gui";
+import { SocketProvider } from "./SocketProvider";
 
 function App() {
   return (
     <div className="App">
-      <GuiTop/>
-      <World/>
+      <SocketProvider>
+        <GuiTop />
+        <World />
+      </SocketProvider>
     </div>
   );
 }

@@ -15,7 +15,7 @@ const World = () => {
   };
 
   const onMessage = useCallback((event) => {
-    console.log(points);
+    console.log("hello");
     if (event.data) {
       const newDot = event.data.toString();
       // let newDot = {

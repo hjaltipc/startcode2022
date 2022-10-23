@@ -25,7 +25,7 @@ async def get_body(request: Request):
     rq = await request.body()
     #print(rq)
     dataQueue.put(rq)
-    return rq
+    return "success"
 
 
 
@@ -34,7 +34,10 @@ def printer(queueob):
         try:
             if queueob.not_empty:
                 queueObj = queueob.get().decode() #.decode()[8:]
-                matchId = json.loads(queueObj)["matchId"]
+                try:
+                    matchId = json.loads(queueObj)["matchId"]
+                except:
+                    matchId = queueObj.split("=")[1].replace("!@#$%^&*()[]{};:,./<>?\|`~-=_+", " ")
                 coordinate = get_coordinate(matchId)
                 print(coordinate)
 
@@ -55,5 +58,3 @@ if __name__ == "__main__":
 
 
     uvicorn.run(app,host="0.0.0.0", port=6969)
-
-

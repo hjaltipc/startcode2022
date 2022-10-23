@@ -8,31 +8,46 @@ const World = () => {
   const [points, setPoints] = useState([]);
   const socket = useSocket();
 
-  const setPointsFrom = (point) => {
-    setPoints((points) => [...points, point]);
+  const setPointsFrom = (lat, long) => {
+    let newDot = {
+      lat: lat,
+      lng: long,
+      maxR: 2,
+      propagationSpeed: (Math.random() - 0.5) * 10 + 1,
+      repeatPeriod: Math.random() * 200 + 200,
+    };
+    setPoints((points) => [...points, newDot]);
     removePoint();
-    console.log(points);
+    console.log(newDot);
   };
 
   const onMessage = useCallback((event) => {
-    console.log("hello");
-    if (event.data) {
-      const newDot = event.data.toString();
-      // let newDot = {
-      //   lat: parseInt(split[0]),
-      //   lng: parseInt(split[1]),
-      //   maxR: 2,
-      //   propagationSpeed: (Math.random() - 0.5) * 10 + 1,
-      //   repeatPeriod: Math.random() * 200 + 200,
-      // };
-      // const parsedDot = parseInt(newDot);
-      setPointsFrom(newDot);
-      console.log("connection established");
-      console.log(event.data.toString());
-      console.log(event.type);
-      console.log(parseInt(newDot));
+    console.log(event.data);
 
-      console.log("Point set");
+    if (event.data) {
+      if (event.data != "Data recieved as: Present") {
+        // const lat = JSON.parse(event.data);
+        const data1 = event.data.replace("}", "").replace("{", "");
+        const data2 = data1.split(",");
+        const data3 = data2[0].split(":");
+        console.log(data3[1]);
+        const data4 = data2[1].split(":");
+        console.log(data4[1]);
+        console.log(data4);
+
+        // console.log(lat);
+        // console.log(lat.type);
+        // const long = event.data.long;
+        setPointsFrom(parseInt(data3[1]), parseInt(data4[1]));
+        // console.log("connection established");
+        // console.log(event.data.toString());
+        // console.log(event.type);
+        // // console.log(parseInt(newDot));
+
+        // console.log("Point set");
+      }
+
+      // const parsedDot = parseInt(newDot);
     }
   }, []);
 
@@ -54,20 +69,18 @@ const World = () => {
     console.log("listener made");
     socket.addEventListener("message", onMessage);
 
-    globeEl.current.controls().autoRotate = true;
-    globeEl.current.controls().autoRotateSpeed = 2;
+    // globeEl.current.controls().autoRotate = true;
+    // globeEl.current.controls().autoRotateSpeed = 2;
 
-    setTimeout(() => {
-      const directionalLight = globeEl.current
-        .scene()
-        .children.find((obj3d) => obj3d.type === "DirectionalLight");
-      directionalLight && directionalLight.position.set(0, 0, 0); // change light position to see the specularMap's effect
-    });
+    // setTimeout(() => {
+    //   const directionalLight = globeEl.current
+    //     .scene()
+    //     .children.find((obj3d) => obj3d.type === "DirectionalLight");
+    //   directionalLight && directionalLight.position.set(0, 0, 0); // change light position to see the specularMap's effect
+    // });
 
     // return socket.removeEventListener("message", onMessage);
   }, [socket, onMessage]);
-
-  console.log(points);
 
   const colorInterpolator = (t) => `rgba(220,20,60,${Math.sqrt(1 - t)})`;
 

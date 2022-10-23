@@ -23,18 +23,21 @@ async def root():
     return {"message": "The API WORKS! WHOOOHOOO"}
 
 
-async def handler(websocket, path, WebQueueObj):
+async def handler(websocket, path):
+    WebQueueObj = websocketSendQueue
     logger.info("Starting websocket handler")
     data = await websocket.recv()
     reply = f"Data recieved as: {data}"
     print(f"Data recieved from client  is {data}")
     await websocket.send(reply)
     while True:
-        if WebQueueObj.not_empty():
+        if WebQueueObj.not_empty:
             data = WebQueueObj.get()
-            await websocket.send(data)
+            await websocket.send(str(data))
+            print("Not empty")
         else:
             time.sleep(0.1)
+            print("empty")
             # Prevent loop checking all the time
 
         #dat = random.randint(0,500)
@@ -45,14 +48,14 @@ async def handler(websocket, path, WebQueueObj):
 @app.post("/input")
 async def get_body(request: Request):
     rq = await request.body()
-    print(f"recieved {rq} from server")
+    # print(f"recieved {rq} from server")
     dataQueue.put(rq)
 
 
 def websocketThreadFunction(eventLoop, webQueueObj=websocketSendQueue):
     logger.info("Starting websocketThread")
 
-    start_server = websockets.serve(handler, "0.0.0.0", 6921, loop=eventLoop)
+    start_server = websockets.serve(handler, "127.0.0.1", 6921, loop=eventLoop)
     eventLoop.run_until_complete(start_server)
     eventLoop.run_forever()
     logger.info("WebsocketThread stopping")

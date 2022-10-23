@@ -1,4 +1,5 @@
 import logo from '../img/Sportradar_logo_RGB_white.png';
+
 const GuiTop = () => {
     return(
         <div className='topBar'>

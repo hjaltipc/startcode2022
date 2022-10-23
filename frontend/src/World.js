@@ -1,4 +1,6 @@
+import { useEffect, useState } from "react";
 import Globe from "react-globe.gl";
+
 
 const World = () => {
   const ws = new WebSocket('ws://localhost:6921')

@@ -1,10 +1,11 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Globe from "react-globe.gl";
 import data from "./matchlist-21-05-2022.txt";
 
 import map from "./stock-vector-world-map-vector-1299977560.jpg";
 
 const World = () => {
+  const globeEl = useRef();
   let url =
     "https://dev.fn.sportradar.com/common/en/Europe:Berlin/gismo/match_coordinates/";
 
@@ -24,60 +25,95 @@ const World = () => {
           let newDot = {
             lat: parseInt(split[0]),
             lng: parseInt(split[1]),
-            size: Math.random() / 3,
-            color: "red",
+            maxR: 2,
+            propagationSpeed: (Math.random() - 0.5) * 10 + 1,
+            repeatPeriod: Math.random() * 200 + 200,
           };
 
           setPoints((points) => [...points, newDot]);
+          console.log("Point set");
+          removePoint();
         }
       });
   };
 
-  useEffect(() => {
-    setInterval(() => {
-      fetch(urlFeed)
-        .then((r) => r.json())
-        .then((text) => {
-          setMatches(text["doc"][0].data);
-        });
-    }, 1000);
-  }, []);
+  //   useEffect(() => {
+  //     setInterval(() => {
+  //       fetch(urlFeed)
+  //         .then((r) => r.json())
+  //         .then((text) => {
+  //           setMatches(text["doc"][0].data);
+  //           console.log("MATCHES SET");
+  //         });
+  //     }, 10000);
+  //   }, []);
+  //   useEffect(() => {
+  //     // setInterval(() => {
+  //     fetch(data)
+  //       .then((r) => r.text())
+  //       .then((text) => {
+  //         let location = text.split("\n");
+  //         setMatches(location);
+  //       });
+  //     // }, 3000);
+  //   }, []);
 
   const removePoint = () => {
     setTimeout(() => {
-      const newPointsArray = points.slice(0, points.length - 1);
+      console.log(points);
+      const newPointsArray = points.slice(0, 1);
       setPoints(newPointsArray);
-      console.log("hello");
-    }, 1000);
+      console.log("Point removed");
+    }, 8000);
   };
 
   useEffect(() => {
-    const delay = async (ms = 1000) =>
-      new Promise((resolve) => setTimeout(resolve, ms));
+    setTimeout(() => {
+      // wait for scene to be populated (asynchronously)
+      const directionalLight = globeEl.current
+        .scene()
+        .children.find((obj3d) => obj3d.type === "DirectionalLight");
+      directionalLight && directionalLight.position.set(0, 0, 0); // change light position to see the specularMap's effect
+    });
+  }, []);
 
-    const plotPoints = () => {
+  useEffect(() => {
+    const plotPoints = async () => {
+        let i = 100;
+        interval = 
+      console.log("number of matches: " + matches.length);
+      console.log("number of points: " + points.length);
       if (matches.length > 0) {
         for (const match of matches) {
-          let id = match.match._id;
-          let dataLen = matches.length;
-          //   dataLength = len(responseJson["doc"][0]["data"]) - 1;
-          //   let waitingtime = 1000000 / dataLen;
-          //   console.log(waitingtime);
-          fetchdata(id);
-          removePoint();
-          //   await delay(1000);
+          i += 80;
+          setTimeout(function () {
+            let id = match.match._id;
+            console.log(i);
+            fetchdata(id);
+          }, i);
+          //   console.log("DOING THINGS");
         }
       }
     };
     plotPoints();
+    console.log(points.length);
   }, [matches]);
+
+  const colorInterpolator = (t) => `rgba(220,20,60,${Math.sqrt(1 - t)})`;
 
   return (
     <Globe
-      globeImageUrl={"//unpkg.com/three-globe/example/img/earth-day.jpg"}
-      pointsData={points}
-      pointAltitude="size"
-      pointColor="color"
+      ref={globeEl}
+      showAtmosphere={false}
+      globeImageUrl={
+        "https://assets.vercel.com/image/upload/v1595320886/front/home/globe-texture.jpg"
+      }
+      backgroundColor="rgba(0, 0, 0, 0)"
+      ringsData={points}
+      ringColor={() => colorInterpolator}
+      ringMaxRadius="maxR"
+      ringPropagationSpeed="propagationSpeed"
+      ringRepeatPeriod="repeatPeriod"
     ></Globe>
   );
 };
